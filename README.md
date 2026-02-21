@@ -86,14 +86,23 @@ This repository includes:
 DSA-in-Java/
 │
 ├── Arrays/
+
 ├── LinkedList/
+
 ├── Stack/
+
 ├── Queue/
+
 ├── Trees/
+
 ├── Graphs/
+
 ├── Sorting/
+
 ├── Searching/
+
 ├── Recursion/
+
 └── DynamicProgramming/
 
 ---
